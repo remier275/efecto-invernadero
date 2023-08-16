@@ -8,6 +8,10 @@ body {
 img {
     width: 100%
 }
+video{
+    position: relative;
+    left: 10px
+}
 *{
     margin: 0px;
     padding: 0px;
