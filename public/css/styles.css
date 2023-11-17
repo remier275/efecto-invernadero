@@ -88,3 +88,9 @@ footer a {
     object-fit: cover;
     scroll-snap-align: center;
 }
+@media only screen and (max-width: 600px) {
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
